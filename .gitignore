@@ -1,32 +1,14 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+/Debug/
+BUILD/
+*.yml
+*.pyc
+.vs/
+NTPClient/.hg/
+/argosLinker/IoTLink/IoTLink.cpp.bak
+/argosLinker/IoTLink/IoTLink.h.bak
+/main.cpp.bak
+/Camera/Camera_Seeker.cpp.bak
+/argosLinker/JsonProtocol/JsonProtocol.cpp.bak
+/System/dongle_system.cpp.bak
+*.bak
+.vscode/settings.json

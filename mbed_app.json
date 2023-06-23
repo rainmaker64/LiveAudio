@@ -1,0 +1,8 @@
+{
+  "config": {
+    "fatal-error-auto-reboot-enabled": {
+      "help": "Setting this to true enables auto-reboot on a fatal error.",
+      "value": true
+    }
+  }
+}
